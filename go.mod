@@ -1,3 +1,5 @@
+// +heroku install ./...
+
 module github.com/sqreen/go-agent
 
 require (
